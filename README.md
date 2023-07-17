@@ -76,5 +76,5 @@ Abre o link <a href="http://localhost:3000" target="_blank">http://localhost:300
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+:wave: [Participe da comunidade da Rocketseat!](https://discord.gg/rocketseat)
 
