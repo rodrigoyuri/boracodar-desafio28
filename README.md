@@ -9,7 +9,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#--executando-o-projeto">Executando o projeto</a>
+  <a href="#computer-executando-o-projeto">Executando o projeto</a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Você pode visualizar o layout do projeto através <a href="https://www.figma.co
 
 Esse projeto está sob a licença MIT.
 
-## ⚙️  Executando o projeto
+## :computer: Executando o projeto
 
 Faça o clone do repositório e navegue até a pasta do projeto.
 
